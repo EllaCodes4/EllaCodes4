@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @EllaCodes4!
-- 🌱 I started learning to code with SheCodes during the pandemic and have since built a number of projects showcasing my skills (see below)! I am currently building a project with React so stay tuned!
-- 👀 I’m interested in an Apprenticeship for Front End Developers in Edtech or an Entry-level position that provides mentorship.
-- 💞️ I’m looking to collaborate on projects that will increase access and opportunities for underserved & underrepresented communities and projects that will revolutionize education & its systems. 
-- 📫 Want to work together? Contact me at gcorales4@gmail.com
+Hi! I'm Gabriella, a Stanford Grad, from San Antonio, TX, once Educator, now Front End Developer! I went to Stanford University as a first generation college student and went on to passionately teach at schools serving underserved communitites. I've always had a passion for elevating & educating others, and had always been interested in coding. During the pandemic, as the world changed, I decided to change with it. I started learning to code with SheCodes, an organization dedicated to teaching women how to code in order to close the gender gap in tech. I've always been in the business of breaking barriers, and I have no intention of stopping now. I'm passionate about making the world a better, more equitable place, and I'm joining the tech industry now with same passion for elevating people and underserved communities using education and technology. Want to collaborate? Contact me at: 📫 gcorales4@gmail.com
+
+
 
 <!---
 EllaCodes4/EllaCodes4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
