@@ -42,7 +42,21 @@ I went to Stanford University as a First Generation college student and went on 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
   </a> 
 </p>
-<br/>
+
+#### Want to collaborate? Let's connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/gabriella-corales/" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+   </a>
+   
+<a href="https://twitter.com/EllaCodes" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+</a>
+
+<a href="https://github.com/EllaCodes4" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+</a>
+</p>
 
 
 
